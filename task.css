@@ -1,0 +1,4 @@
+/* task 6 */
+div>div:nth-last-of-type(2):not(.no-need div) {
+    color: red;
+}
